@@ -1,4 +1,4 @@
-# 05_supply_chain
+# supply_chain
 
 This folder defines all source code for the '05_supply_chain' pipeline:
 
