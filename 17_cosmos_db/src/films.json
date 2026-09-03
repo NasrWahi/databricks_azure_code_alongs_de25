@@ -1,0 +1,115 @@
+[
+  {
+    "id": "1",
+    "year": 2009,
+    "title": "Tomorrow is another day",
+    "genres": ["Comedy", "Horror"]
+  },
+  {
+    "id": "2",
+    "year": 2025,
+    "title": "Good luck",
+    "director": "Kokchun"
+  },
+  {
+    "id": "3",
+    "year": 2025,
+    "title": "Coolu filmu",
+    "director": "Cool Director",
+    "rating": 5
+  },
+  {
+    "id": "4",
+    "year": 2018,
+    "title": "The Last Train",
+    "genres": ["Drama", "Thriller"],
+    "director": "Anna Miller",
+    "rating": 8
+  },
+  {
+    "id": "5",
+    "year": 2020,
+    "title": "Lost in the City",
+    "genres": ["Mystery", "Crime"],
+    "director": "David Brown",
+    "rating": 7
+  },
+  {
+    "id": "6",
+    "year": 2015,
+    "title": "Under the Stars",
+    "genres": ["Romance", "Drama"],
+    "director": "Maria Wilson",
+    "rating": 9
+  },
+  {
+    "id": "7",
+    "year": 2022,
+    "title": "Space Beyond",
+    "genres": ["Science Fiction", "Adventure"],
+    "director": "James Carter",
+    "rating": 8
+  },
+  {
+    "id": "8",
+    "year": 2011,
+    "title": "A Day in Summer",
+    "genres": ["Comedy", "Romance"],
+    "rating": 6
+  },
+  {
+    "id": "9",
+    "year": 2024,
+    "title": "The Silent House",
+    "genres": ["Horror", "Mystery"],
+    "director": "Laura Adams",
+    "rating": 7
+  },
+  {
+    "id": "10",
+    "year": 2019,
+    "title": "Running Out of Time",
+    "genres": ["Action", "Thriller"],
+    "director": "Michael Stone",
+    "rating": 8
+  },
+  {
+    "id": "11",
+    "year": 2016,
+    "title": "The Forgotten Garden",
+    "genres": ["Fantasy", "Drama"],
+    "director": "Sophie Green",
+    "rating": 7
+  },
+  {
+    "id": "12",
+    "year": 2023,
+    "title": "Midnight Conversation",
+    "genres": ["Drama", "Mystery"],
+    "director": "Robert King",
+    "rating": 9
+  },
+  {
+    "id": "13",
+    "year": 2013,
+    "title": "Robot Friend",
+    "genres": ["Family", "Science Fiction"],
+    "rating": 6
+  },
+  {
+    "id": "14",
+    "year": 2021,
+    "title": "Across the Ocean",
+    "genres": ["Adventure", "Drama"],
+    "director": "Nina Roberts",
+    "rating": 8
+  },
+  {
+    "id": "15",
+    "year": 2010,
+    "title": "The Funny Neighbor",
+    "genres": ["Comedy"],
+    "director": "Peter Hall",
+    "rating": 5
+  }
+]
